@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradeepgangad&label=Profile%20views&color=0e75b6&style=flat" alt="pradeepgangad" /> </p>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width=250>
-- 🔭 I’m currently working on <b>Software Testing</b>
+- 🔭 I’m currently working as an <b>SDET</b>
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **Playwright tool**
 
 - 💬 Ask me about **Automation Testing, Core Java**
 
 - 📫 How to reach me **pradeep.gangad@gmail.com**
 
-- ⚡ Fun fact **I think I am funny but people don't**
+- ⚡ Fun fact **An Automation Tester has the heart of the Developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
